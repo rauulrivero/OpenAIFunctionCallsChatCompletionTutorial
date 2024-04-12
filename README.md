@@ -141,6 +141,31 @@ def function_calling(prompt, function, content):
 ```
 
 
+### 8. Pasos para preparar y ehecutar el ejemplo.
+
+Para configurar y ejecutar el ejemplo, sigue estos pasos:
+
+1. Configuración de la API Key:
+Abre o crea un archivo .env en el directorio del proyecto y añade tu API Key de OpenAI de la siguiente manera:
+
+```makefile
+OPENAI_API_KEY=tu_api_key_aquí
+```
+
+2. Asegúrate de reemplazar tu_api_key_aquí con tu clave de API real.
+
+Instalación de dependencias:
+Abre una terminal y ejecuta el siguiente comando para instalar las librerías necesarias:
+
+```bash
+pip install openai dotenv
+```
+
+Este comando instalará las librerías openai y dotenv, que son necesarias para interactuar con la API de OpenAI y gestionar las variables de entorno, respectivamente.
+
+Siguiendo estos pasos, tendrás todo listo para ejecutar el código de ejemplo proporcionado.
+
+
 ### Bibliografía
 Vídeo interesante: "OpenAI Function Calling - Full Beginner Tutorial" https://www.youtube.com/watch?v=aqdWSYWC_LI
 
