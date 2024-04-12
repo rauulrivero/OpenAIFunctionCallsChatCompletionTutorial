@@ -1,4 +1,6 @@
-# OpenAIFunctionCallsChatCompletionTutorial# Guía básica para las llamadas de función en OpenAI
+# OpenAIFunctionCallsChatCompletionTutorial
+
+## Guía básica para las llamadas de función en OpenAI
 
 ### 1. Configuración inicial
 
