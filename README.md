@@ -142,7 +142,7 @@ def function_calling(prompt, function, content):
 ```
 
 
-### 8. Pasos para preparar y ehecutar el ejemplo.
+### 8. Pasos para preparar y ejecutar el ejemplo.
 
 Para configurar y ejecutar el ejemplo, sigue estos pasos:
 
@@ -152,10 +152,9 @@ Abre o crea un archivo .env en el directorio del proyecto y añade tu API Key de
 ```makefile
 OPENAI_API_KEY=tu_api_key_aquí
 ```
+Asegúrate de reemplazar tu_api_key_aquí con tu clave de API real.
 
-2. Asegúrate de reemplazar tu_api_key_aquí con tu clave de API real.
-
-Instalación de dependencias:
+2. Instalación de dependencias:
 Abre una terminal y ejecuta el siguiente comando para instalar las librerías necesarias:
 
 ```bash
