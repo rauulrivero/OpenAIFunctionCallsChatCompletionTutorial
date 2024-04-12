@@ -142,7 +142,7 @@ def function_calling(prompt, function, content):
 ```
 
 
-### 8. Pasos para preparar y ehecutar el ejemplo.
+### 8. Pasos para preparar y ejecutar el ejemplo.
 
 Para configurar y ejecutar el ejemplo, sigue estos pasos:
 
