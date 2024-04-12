@@ -23,7 +23,6 @@ client = OpenAI(
 Define las descripciones de las funciones que planeas utilizar en tu diálogo. Estas descripciones incluyen el nombre de la función, una breve descripción y detalles sobre los parámetros que espera la función.
 
 ```python
-Copy code
 function_descriptions = [
     {
         "name": "consultar_api_vuelos",
